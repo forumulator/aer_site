@@ -1,2 +1,5 @@
 update_script.ps1
 ftp_script.txt
+
+content/*
+backup/*

@@ -1,0 +1,23 @@
+
+
+td p.mou-univ-name, td p.mou-coop {
+	max-width: 80%;
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+table.table-inverse {
+	background-color: #373a3c;
+	color: white;
+}
+
+table.table-inverse tr:nth-of-type(odd) {
+	background-color: rgba(249,249,249,0.10);
+}
+
+table.table-inverse tr:nth-of-type(odd) > th, table.table-inverse tr:nth-of-type(odd) > td{
+	background-color: rgba(249,249,249,0.10);
+}
